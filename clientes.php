@@ -1,6 +1,6 @@
 <?php
 	/*-------------------------
-	Autor: Obed Alvarado
+s	Autor: Obed Alvarado
 	Web: obedalvarado.pw
 	Mail: info@obedalvarado.pw
 	---------------------------*/
